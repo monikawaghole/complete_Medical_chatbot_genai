@@ -3,6 +3,6 @@ setup (
     name="medical chatbot",
     version="0.1.0",
     author="monika tikone",
-    author_email="monikawaghole1994@gmail.com",
+    author_email="monikatikone94@gmail.com",
     packages=find_packages(),
     install_requires=[])
